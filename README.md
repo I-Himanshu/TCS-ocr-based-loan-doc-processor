@@ -138,11 +138,11 @@ CSV_PATH = "./loan_applications.csv"
 
 
 
-3. **Loan Eligibility Calculator**
+3. **Loan Eligibility Calculator**  
    ![image](https://github.com/user-attachments/assets/de3a8807-2fa3-4dd4-99bf-12371e9d88ea)
 
 
-4. **Admin Analytics Dashboard**
+4. **Admin Analytics Dashboard**  
    ![image](https://github.com/user-attachments/assets/856864f0-0cfa-4887-8ac7-8a4b33366c62)
 
 
