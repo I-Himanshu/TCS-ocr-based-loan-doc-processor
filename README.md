@@ -132,13 +132,19 @@ CSV_PATH = "./loan_applications.csv"
 ## 📸 Application Screenshots
 
 1. **Document Upload Interface**
-   ![Document Upload](#)
+   ![Document Upload](https://github.com/user-attachments/assets/1550636a-d420-48dd-95f3-a431e4998ded)
+   ![Document Uploaded State](https://github.com/user-attachments/assets/b4009149-b78d-49f3-a7d3-b74e4a334a38)
+   ![Success Interface](https://github.com/user-attachments/assets/c40922a8-4a41-4502-98ed-375bdc22c2a8)
 
-2. **Loan Eligibility Calculator**
-   ![Calculator](#)
 
-3. **Admin Analytics Dashboard**
-   ![Dashboard](#)
+
+3. **Loan Eligibility Calculator**
+   ![image](https://github.com/user-attachments/assets/de3a8807-2fa3-4dd4-99bf-12371e9d88ea)
+
+
+4. **Admin Analytics Dashboard**
+   ![image](https://github.com/user-attachments/assets/856864f0-0cfa-4887-8ac7-8a4b33366c62)
+
 
 ## 📚 Documentation
 
