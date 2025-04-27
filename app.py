@@ -120,6 +120,9 @@ def handle_application(name, address, income, loan_amount):
             pdf_data = create_loan_agreement(app_data)
             st.session_state.pdf_data = pdf_data
             st.success(f"✅ {message} Loan approved! Check your email for details.")
+        else:
+            # Reject application
+            st.error(f"❌ {message} Loan rejected. Please check your details.")
 
 
 def show_admin_dashboard():
