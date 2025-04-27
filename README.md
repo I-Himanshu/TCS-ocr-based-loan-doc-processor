@@ -98,8 +98,8 @@ loan-processor/
 
 ```bash
 # Clone repository
-git clone https://github.com/I-Himanshu/SmartLoanPro.git
-cd SmartLoanPro
+git clone https://github.com/I-Himanshu/TCS-ocr-based-loan-doc-processor.git
+cd TCS-ocr-based-loan-doc-processor
 # Create virtual environment
 python3 -m venv venv
 # Activate virtual environment
