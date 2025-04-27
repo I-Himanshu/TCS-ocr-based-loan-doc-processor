@@ -1,4 +1,4 @@
-# SmartLoan Pro - Automated Loan Processing System
+# SmartLoan - Automated Loan Processing System
 
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
@@ -43,7 +43,7 @@ Traditional loan processing suffers from:
 - ❌ Paper-based document management
 - ❌ No real-time applicant tracking
 
-**SmartLoan Pro reduces processing time by 92% while increasing accuracy to 99.8%**
+**SmartLoan reduces processing time by 92% while increasing accuracy to 99.8%**
 
 ## 🛠 Technical Architecture
 

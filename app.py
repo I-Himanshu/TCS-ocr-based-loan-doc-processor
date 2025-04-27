@@ -19,7 +19,7 @@ if 'chat_history' not in st.session_state:
 
 def main():
     inject_animation_css()
-    st.title("🌟 SmartLoan Pro 2.0")
+    st.title("🌟 SmartLoan")
     
     # Dark mode toggle
     with st.sidebar:
