@@ -24,9 +24,9 @@ def main():
     # Dark mode toggle
     with st.sidebar:
         st.session_state.dark_mode = dark_mode()
-        if st.button("🌀 Toggle Premium View"):
-            st.session_state.dark_mode = not st.session_state.dark_mode
-            st.experimental_rerun()
+        # if st.button("🌀 Toggle Premium View"):
+        #     st.session_state.dark_mode = not st.session_state.dark_mode
+        #     st.experimental_rerun()
             
         # Admin access
         if st.checkbox("🔐 Bank Staff Access"):
